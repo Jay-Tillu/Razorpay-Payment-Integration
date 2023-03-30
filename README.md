@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Jay-Tillu/Payment-Integration/blob/master/assets/GitHub%20Assets/ic_launcher-web.png?raw=true" alt="Payment Integration App Logo" width="120" height="120">
+    <img src="https://github.com/Jay-Tillu/Razorpay-Payment-Integration/blob/main/assets/GitHub%20Assets/ic_launcher-web.png?raw=true" alt="Payment Integration App Logo" width="120" height="120">
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Payment Integration using Razorpay
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Jay-Tillu/Payment-Integration/blob/master/assets/GitHub%20Assets/payment%20integration%20gif.gif?raw=true">
+  <img src="https://github.com/Jay-Tillu/Razorpay-Payment-Integration/blob/main/assets/GitHub%20Assets/payment%20integration%20gif.gif?raw=true">
 </p>
 
 ## Plugins
